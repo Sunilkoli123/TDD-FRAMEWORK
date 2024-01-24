@@ -33,7 +33,7 @@ public class AddtoCartTest extends BaseClass {
 		// Step 2 aadto cart pom class
 		AddToCart a = new AddToCart(driver);
 		a.AddtoCart(driver);
-
+    
 		// Step 3 checkout by selecting a counrty
 		Shoppingcart c = new Shoppingcart(driver);
 		String cntryname = eutil.readDataFromExcel("Sheet1", 0, 2);

@@ -46,7 +46,7 @@ public class BaseClass {
 	 * @param Browser
 	 * @throws IOException
 	 */
-//	@Parameters("Browser")
+//@Parameters("Browser")
 //	@BeforeTest()
 	@BeforeClass(alwaysRun=true)
 	public void bcConfig() throws IOException {

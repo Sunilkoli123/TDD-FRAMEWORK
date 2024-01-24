@@ -3,11 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practice.retryAnalyserPractice">
+      <class name="cartTest.AddtoCartTest">
         <methods>
-          <include name="sample"/>
+          <include name="bsConfig"/>
+          <include name="acConfig"/>
+          <include name="bmConfig"/>
+          <include name="bcConfig"/>
+          <include name="amConfig"/>
+          <include name="addtocaredsmartphone"/>
+          <include name="asConfig"/>
         </methods>
-      </class> <!-- practice.retryAnalyserPractice -->
+      </class> <!-- cartTest.AddtoCartTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

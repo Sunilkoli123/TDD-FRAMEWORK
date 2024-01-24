@@ -4,14 +4,14 @@
   <test thread-count="2" parallel="tests" name="Test-runner1">
 	  <parameter name="Browser" value="Chrome"></parameter>
     <classes>
-      <class name="cartTest.AddtoCart"/>
+      <class name="cartTest.AddtoCartTest"/>
     </classes>
   </test> <!-- Test -->
   
   <test thread-count="2" parallel="tests" name="Test-runner2">
 	  <parameter name="Browser" value="Edge"></parameter>
     <classes>
-      <class name="cartTest.AddtoCart"/>
+      <class name="cartTest.AddtoCartTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
