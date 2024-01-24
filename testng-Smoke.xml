@@ -8,7 +8,7 @@
 	</groups>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="cartTest.AddtoCart"/>
+      <class name="cartTest.AddtoCartTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
