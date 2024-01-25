@@ -2,39 +2,39 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-24T15:26:56 IST" name="Suite" finished-at="2024-01-24T15:27:27 IST" duration-ms="30481">
+  <suite started-at="2024-01-25T07:17:51 IST" name="Suite" finished-at="2024-01-25T07:18:28 IST" duration-ms="37772">
     <groups>
       <group name="smokesuite">
         <method signature="AddtoCartTest.addtocaredsmartphone()[pri:0, instance:cartTest.AddtoCartTest@242b836]" name="addtocaredsmartphone" class="cartTest.AddtoCartTest"/>
       </group> <!-- smokesuite -->
     </groups>
-    <test started-at="2024-01-24T15:26:56 IST" name="Test" finished-at="2024-01-24T15:27:27 IST" duration-ms="30481">
+    <test started-at="2024-01-25T07:17:51 IST" name="Test" finished-at="2024-01-25T07:18:28 IST" duration-ms="37772">
       <class name="cartTest.AddtoCartTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:26:56 IST" name="bsConfig" finished-at="2024-01-24T15:26:56 IST" duration-ms="14" status="PASS">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:17:51 IST" name="bsConfig" finished-at="2024-01-25T07:17:51 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:26:57 IST" name="bcConfig" finished-at="2024-01-24T15:27:04 IST" duration-ms="6396" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:17:51 IST" name="bcConfig" finished-at="2024-01-25T07:17:59 IST" duration-ms="8182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:27:04 IST" name="bmConfig" finished-at="2024-01-24T15:27:10 IST" duration-ms="6154" status="PASS">
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:17:59 IST" name="bmConfig" finished-at="2024-01-25T07:18:06 IST" duration-ms="6977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmConfig -->
-        <test-method signature="addtocaredsmartphone()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:27:10 IST" name="addtocaredsmartphone" finished-at="2024-01-24T15:27:20 IST" duration-ms="10043" status="PASS">
+        <test-method signature="addtocaredsmartphone()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:18:06 IST" name="addtocaredsmartphone" finished-at="2024-01-25T07:18:21 IST" duration-ms="14942" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addtocaredsmartphone -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:27:20 IST" name="amConfig" finished-at="2024-01-24T15:27:26 IST" duration-ms="6432" status="PASS">
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:18:21 IST" name="amConfig" finished-at="2024-01-25T07:18:28 IST" duration-ms="6423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:27:26 IST" name="acConfig" finished-at="2024-01-24T15:27:27 IST" duration-ms="568" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:18:28 IST" name="acConfig" finished-at="2024-01-25T07:18:28 IST" duration-ms="618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-24T15:27:28 IST" name="asConfig" finished-at="2024-01-24T15:27:28 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:cartTest.AddtoCartTest@242b836]" started-at="2024-01-25T07:18:29 IST" name="asConfig" finished-at="2024-01-25T07:18:29 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
